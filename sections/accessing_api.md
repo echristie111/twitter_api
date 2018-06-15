@@ -2,13 +2,21 @@
 
 # Accessing the API
 
-1\. Clone (or [download](https://github.com/smythp/twitter-workshop/archive/master.zip)) this repository to your computer and navigate to the folder once it's downloaded.  
+1\. Clone (or [download](https://github.com/smythp/twitter-workshop/archive/master.zip)) this repository to your computer and navigate to the folder once it's downloaded.
 
-2\. Open the my_keys.py file in your text editor.  
+You can clone the repository with this command in your terminal:
 
-3\. Copy your four numbers (Consumer Key, Consumer Secret, Access Token Key, and Access Token Secret), replacing the xxx on each relevant line. Make sure to keep the single quotes around the numbers.  
+```bash
+git clone https://github.com/DHRI-Curriculum/twitter-api.git
+```
+	
+Once you've cloned or downloaded the directory, navigate into it using your command line.
 
-4\. Save the my_keys.py file.  
+2\. Open the my_keys.py file in your text editor, VS Code.
+
+3\. Copy your four numbers (Consumer Key, Consumer Secret, Access Token Key, and Access Token Secret), replacing the xxx on each relevant line. Make sure to keep the single quotes around the numbers.
+
+4\. Save the `my_keys.py` file.
 
 5\. Make sure you have the Tweepy library for Python installed. To check, type
 
@@ -34,7 +42,7 @@ at the bash shell to install the library.
 
 	python api.py
 
-If you see the name of your Twitter account, everything is working!  
+If you see the name of your Twitter account, everything is working!
 
 
 [<<< Previous](getting_key.md) | [Next >>>](creating_twitterbot.md)

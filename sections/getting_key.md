@@ -1,4 +1,4 @@
-[<<< Previous](../README.md) | [Next >>>](accessing_api.md)
+[<<< Previous](what_is_api.md) | [Next >>>](accessing_api.md)
 
 # Getting Your API key
 

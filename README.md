@@ -2,17 +2,26 @@
 
 APIs (Application Programming Interfaces) are a structured way for programs to communicate with other programs. A knowledge of APIs allows your programs to communicate with major services such as The New York Times and Twitter and collect data from organizations such as the Library of Congress. 
 
-In this session, we'll discuss API fundamentals while using the Twitter API to create a Twitterbot—an automated Twitter account. We'll also discuss the ethical use of APIs and how tools such as APIs have shaped the modern internet.
+By the end of this workshop, participants will:
+
+- Understand the purpose of Application Programming Interfaces (APIs), especially web APIs.
+- Authenticate to and interact with a real API—the Twitter API.
+- Create a Twitterbot—that is, a Python program that automatically controls a Twitter account.
+- Collect tweets and tweet metadata from Twitter's streaming API.
+- Learn how to read API documentation and research potential APIs to address issues in research.
 
 ## Important Note
 
 Do not share your API key, secret, or access tokens with anyone, and do not publish code with your key or token visible. Treat your keys and tokens as you would a password.
 
+-----
+
+[What is an API?](sections/what_is_api.md)  
 [Getting Your API key](sections/getting_key.md)  
 [Accessing the API](sections/accessing_api.md)  
 [Creating a Twitterbot](sections/creating_twitterbot.md)  
 [Scraping Data Using the Streaming API](sections/scraping_data.md)  
-[Resources](resources.md)  
+[Resources](sections/resources.md)  
 
 -----
 
