@@ -2,12 +2,12 @@
 
 # Accessing the API
 
-1\. Clone (or [download](https://github.com/smythp/twitter-workshop/archive/master.zip)) this repository to your computer and navigate to the folder once it's downloaded.
+1\. Clone (or download) this repository to your computer and navigate to the folder once it's downloaded.
 
 You can clone the repository with this command in your terminal:
 
 ```bash
-git clone https://github.com/DHRI-Curriculum/twitter-api.git
+git clone https://github.com/dhsouthbend/twitter-api.git
 ```
 	
 Once you've cloned or downloaded the directory, navigate into it using your command line.
