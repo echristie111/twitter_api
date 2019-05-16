@@ -2,6 +2,9 @@ import tweepy
 import codecs
 import my_keys
 
+# This makes strange characters work with Windows
+sys.stdout.reconfigure(encoding='utf-8')
+
 # Get the authentication keys from my_keys.py
 CONSUMER_KEY = my_keys.CONSUMER_KEY
 CONSUMER_SECRET = my_keys.CONSUMER_SECRET
