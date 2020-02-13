@@ -7,6 +7,11 @@
 You can clone the repository with this command in your terminal:
 
 ```bash
+git clone https://github.com/echristie111/twitter-api.git
+```  
+or  
+
+```bash
 git clone https://github.com/dhsouthbend/twitter-api.git
 ```
 	
