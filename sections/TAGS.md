@@ -1,4 +1,4 @@
-[<<< Previous](scraping_data.md) | [Next >>>](resources.md)
+[<<< Previous](scraping_data.md) | [Next >>>](ethics.md)
 
 # TAGS
 
@@ -17,4 +17,4 @@ A copy of the TAGS Google sheet should now be in the Google drive.
 What information did you just collect?  How do you imagine using this kind of data?  
 Why did you make us do all of that work when could have just used TAGS?!?!
 
-[<<< Previous](scraping_data.md) | [Next >>>](resources.md)
+[<<< Previous](scraping_data.md) | [Next >>>](ethics.md)
