@@ -1,4 +1,4 @@
-[<<< Previous](scraping_data.md) | [Back to beginning >>>](../README.md)
+[<<< Previous](TAGS.md) | [Back to beginning >>>](../README.md)
 
 # API Resources
 
@@ -7,4 +7,4 @@
 [Programmable Web](http://www.programmableweb.com), a list of web-based APIs you can use in your projects.  
 [Tweepy Documentation](http://docs.tweepy.org/en/v3.5.0/)  
 
-[<<< Previous](scraping_data.md) | [Back to beginning >>>](../README.md)
+[<<< Previous](TAGS.md) | [Back to beginning >>>](../README.md)
