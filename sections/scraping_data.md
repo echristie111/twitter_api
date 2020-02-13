@@ -1,4 +1,4 @@
-[<<< Previous](creating_twitterbot.md) | [Next >>>](resources.md)
+[<<< Previous](creating_twitterbot.md) | [Next >>>](TAGS.md)
 
 # Scraping Data Using the Streaming API
 
@@ -32,4 +32,4 @@ python scrape-data.py >> data.csv
 
 in the bash shell. As long as the script continues to run, data will be collected into the .csv file.  
 
-[<<< Previous](creating_twitterbot.md) | [Next >>>](resources.md)
+[<<< Previous](creating_twitterbot.md) | [Next >>>](TAGS.md)
