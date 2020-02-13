@@ -16,7 +16,7 @@ git clone https://github.com/dhsouthbend/twitter-api.git
 ```
 or, go back to the main page and download [here](https://github.com/echristie111/twitter_api)    	
 
-Once you've cloned or downloaded the directory, navigate into it using your command line.
+Once you've cloned or downloaded the directory, navigate into it using your command line (or through your GUI/search bar).
 
 2\. Open the my_keys.py file in your text editor, VS Code.
 
