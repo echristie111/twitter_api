@@ -21,7 +21,8 @@ Do not share your API key, secret, or access tokens with anyone, and do not publ
 [Accessing the API](sections/accessing_api.md)  
 [Creating a Twitterbot](sections/creating_twitterbot.md)  
 [Scraping Data Using the Streaming API](sections/scraping_data.md)  
-[TAGS](sections/TAGS.md)  
+[TAGS](sections/TAGS.md)   
+[Ethics](sections/ethics.md)  
 [Resources](sections/resources.md)  
 
 -----
