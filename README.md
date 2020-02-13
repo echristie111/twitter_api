@@ -8,7 +8,6 @@ By the end of this workshop, participants will:
 - Authenticate to and interact with a real API—the Twitter API.
 - Create a Twitterbot—that is, a Python program that automatically controls a Twitter account.
 - Collect tweets and tweet metadata from Twitter's streaming API.
-- Learn how to read API documentation and research potential APIs to address issues in research.
 
 ## Important Note
 
