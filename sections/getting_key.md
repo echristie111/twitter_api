@@ -2,7 +2,7 @@
 
 # Getting Your API key
 
-1\. Join Twitter (www.twitter.com), if you're not already a member. Be sure that your instructor/administrator has your Twitter handle (@whatever), as this will be used to invite you to the CTSDH developer account.\
+1\. Join [Twitter](www.twitter.com), if you're not already a member. Be sure that your instructor/administrator has your Twitter handle (@whatever), as this will be used to invite you to the CTSDH developer account.\
 2\. You should receive an email inviting you to the CTSDH Twitter Developer account.  Click on "accept invitation." \
 3\. Fill out the form. You will be asked for a website, but note that Twitter doesn't check if it's a real website or not as long as it's in this format: http://www.xyz.com \
 4\. You'll be redirected to a new screen that shows the name you entered for your application. Click the tab at the top that says "Keys and Access Tokens"  
